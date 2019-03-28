@@ -27,3 +27,5 @@ Update: First, I started analyzing the data (manually in order to know what it l
 Issues: I stopped here and I'm going to continue tomorrow but here's what I noticed so far. The contracts don't have a specific format or same pattern, for example there are 2 different table contents (meaning, different sections and subsections), and even for the contracts with the same kind of table contents, the sections aren't always the same, even the format is different, sometimes it's a table not just a text. 
 
 To Do: I'll try to see how to deal with each contract and divide it into sections and sub sections.
+
+PS: Once the project is finished I will share what was requested.
